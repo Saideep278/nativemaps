@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "818011206817",
+    "project_id": "native2-5323c",
+    "storage_bucket": "native2-5323c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818011206817:android:9f25cb5ac1700e86ccace0",
+        "android_client_info": {
+          "package_name": "com.saideep.native"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818011206817-k3o39bob3ugjg5re0g37pubc7m2v0jqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzU1wFmNPB1qYB3au96OMrPNKXWjGFQhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818011206817-k3o39bob3ugjg5re0g37pubc7m2v0jqa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "818011206817-mjevlcmsjjlnrca772qucbpa23q9intb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saideep.native"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
